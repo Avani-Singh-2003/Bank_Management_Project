@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/jcalendar-tz-1.3.3-4.jar",
+        "bank_management_project/jcalendar-tz-1.3.3-4.jar",
+        "c:\\Users\\KIIT\\Downloads\\jcalendar-tz-1.3.3-4.jar",
+        "bank_management_project/mysql-connector-java-8.0.28.jar"
+    ]
+}
